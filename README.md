@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋 I'm Vaishnavi Satle
 
-<!--
-**Vaishnavisatle2105/Vaishnavisatle2105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Learning Java Full Stack Development  
+🌱 Open Source Enthusiast  
+🚀 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- C & C++
+- Git & GitHub
+- MS Excel
+- PowerPoint
+
+---
+
+## 📌 Projects
+
+### 🗓️ Timetable Scheduler
+A Java-based timetable scheduling project for managing college timetables efficiently.
+
+### 🏫 College Timetable Management System
+A project designed to organize and manage college scheduling systems.
+
+### 💻 Mini Projects
+Basic programming and web development practice projects.
+
+---
+
+## 📚 Currently Learning
+
+- Java Full Stack Development
+- Open Source Contribution
+- GitHub & Git
+- Web Development
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: vaishnavisatle6@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-satle-48b5162ba )
+
+---
+
+## 🌟 Goals
+
+- Become a Java Full Stack Developer
+- Build Real World Projects
+
+---
+
+⭐ Thanks for visiting my profile!
