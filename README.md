@@ -45,7 +45,7 @@ Basic programming and web development practice projects.
 ## 📫 Connect With Me
 
 📧 Email: vaishnavisatle6@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-satle-48b5162ba )
+LinkedIn: (https://www.linkedin.com/in/vaishnavi-satle-48b5162ba )
 
 ---
 
